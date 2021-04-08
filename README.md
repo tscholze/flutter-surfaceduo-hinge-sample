@@ -32,7 +32,8 @@ Just me, [Tobi]([https://tscholze.github.io).
 
 ## Acknowledgments
 
-* [Surface Duo SDK Technet Community](https://github.com/jdkoren) for helping beginners, too.
+* [Jonathan Koren](https://github.com/jdkoren)
+* [Surface Duo SDK Technet Community](https://techcommunity.microsoft.com/t5/surface-duo-sdk/bd-p/SurfaceDuoSDK) for helping beginners, too.
 * [Get Started with Flutter on Surface Duo](https://devblogs.microsoft.com/surface-duo/get-started-with-flutter-on-surface-duo/) Microsoft DevBlog article.
 
 
