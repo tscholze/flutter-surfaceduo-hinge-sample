@@ -18,7 +18,7 @@
 3. Select the emulator as device in AS
 4. Run the app
 5. Open the "Additional Sensors" settings pane from the emulator
-6. Alternate the `preassure sensor` value which is mapped to the hinge angle
+6. Alternate the `pressur sensor` value which is mapped to the hinge angle
 
 
 ### Contributing
